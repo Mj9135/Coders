@@ -10,7 +10,7 @@ Byte Builder is an intuitive online code editor that allows seamless execution a
 ## 3
 ![Byte Builder Screenshot 3](src/screenshots/image%20(1).png)
 ## 4
-![Byte Builder Screenshot 3](src/screenshots/image%20(4).png)
+![Byte Builder Screenshot 4](src/screenshots/image(4).png)
 ## Table of Contents
 
 - [Features](#features)
