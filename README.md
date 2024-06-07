@@ -25,7 +25,6 @@ Byte Builder is an intuitive online code editor that allows seamless execution a
 - **Multi-language support**: Byte Builder supports multiple programming languages including Python, JavaScript, Java, C++, and more. This allows users to write, execute, and test code in their preferred language.
 - **Intuitive UI**: The clean and modern user interface is designed for ease of use. Features such as syntax highlighting, code completion, and error detection enhance the coding experience.
 - **Live Execution**: Run your code instantly and see the output in real-time. This feature helps in quickly testing and debugging code snippets.
-- **Customizable Editor**: Users can customize the editor settings to suit their preferences, including theme selection, font size adjustment, and more.
 - **Project Management**: Easily manage your coding projects with features like file explorer, project templates, and version control integration.
 
 ## Prerequisites
