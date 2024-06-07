@@ -2,8 +2,10 @@
 
 Byte Builder is an intuitive online code editor that allows seamless execution and testing of code across various programming languages. Built with React.js, Tailwind CSS, and Monaco Editor, it offers a robust and user-friendly coding environment.
 
-![Byte Builder Screenshot](path/to/screenshot.png)  <!-- Add the path to your screenshot here -->
-
+![Byte Builder Screenshot]
+(src/screenshots/image (1).png)
+src/screenshots/image (2).png
+src/screenshots/image (3).png
 ## Table of Contents
 
 - [Features](#features)
