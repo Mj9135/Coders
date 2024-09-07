@@ -2,9 +2,15 @@
 
 Byte Builder is an intuitive online code editor that allows seamless execution and testing of code across various programming languages. Built with React.js, Tailwind CSS, and Monaco Editor, it offers a robust and user-friendly coding environment.
 
-![Byte Builder Screenshot 1](src/screenshots/image%20(1).png)
+## Screenshots
+## 1
+![Byte Builder Screenshot 1](src/screenshots/image%20(3).png)
+## 2
 ![Byte Builder Screenshot 2](src/screenshots/image%20(2).png)
-![Byte Builder Screenshot 3](src/screenshots/image%20(3).png)
+## 3
+![Byte Builder Screenshot 3](src/screenshots/image%20(1).png)
+## 4
+![Byte Builder Screenshot 4](src/screenshots/image(4).png)
 ## Table of Contents
 
 - [Features](#features)
@@ -19,7 +25,6 @@ Byte Builder is an intuitive online code editor that allows seamless execution a
 - **Multi-language support**: Byte Builder supports multiple programming languages including Python, JavaScript, Java, C++, and more. This allows users to write, execute, and test code in their preferred language.
 - **Intuitive UI**: The clean and modern user interface is designed for ease of use. Features such as syntax highlighting, code completion, and error detection enhance the coding experience.
 - **Live Execution**: Run your code instantly and see the output in real-time. This feature helps in quickly testing and debugging code snippets.
-- **Customizable Editor**: Users can customize the editor settings to suit their preferences, including theme selection, font size adjustment, and more.
 - **Project Management**: Easily manage your coding projects with features like file explorer, project templates, and version control integration.
 
 ## Prerequisites

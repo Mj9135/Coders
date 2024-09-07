@@ -45,23 +45,7 @@ const Landing = () => {
     }
   };
 
-  const handleCompile = async () => {
-    setProcessing(true);
-    const url =
-      "https://judge0-ce.p.rapidapi.com/submissions?base64_encoded=true&fields=*";
-    const options = {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-        "X-RapidAPI-Key": "b8bd8f4accmshd7f7e2e5979aab3p1f148ajsn4914764d3488",
-        "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com",
-      },
-      body: JSON.stringify({
-        language_id: language.id,
-        source_code: btoa(code),
-        stdin: btoa(customInput),
-      }),
-    };
+  
 
     try {
       const response = await fetch(url, options);
